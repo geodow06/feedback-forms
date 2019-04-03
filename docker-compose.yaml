@@ -17,18 +17,12 @@ services:
   gateway:
     image: feedback-forms-gateway
     build: ./feedback-forms-gateway
-  accounts: 
-    image: feedback-forms-accounts
-    build: ./feedback-forms-accounts
-  cohorts:
-    image: feedback-forms-cohorts
-    build: ./feedback-forms-cohorts
-  submit: 
-    image: feedback-forms-submit
-    build: ./feedback-forms-submit
-  retriever:
-    image: feedback-forms-retriever
-    build: ./feedback-forms-retriever
+  mail: 
+    image: feedback-forms-mail
+    build: ./feedback-forms-mail
+  average:
+    image: feedback-form-average
+    build: ./feedback-forms-average
   consumer: 
     image: feedback-forms-consumer
     build: ./feedback-forms-consumer
