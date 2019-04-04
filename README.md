@@ -1,9 +1,9 @@
 ## Contributors
-* [Jordan Hignett](https://github.com/JoelHalford): Front End
-* [George Downe](https://github.com/FortunexFortune): Back End
-* [Thomas Scowcroft](https://github.com/ahmedQAC): Back End
-* [Valentin Lukovski](https://github.com/Taoheed1): Testing
-* [Jonathan Eures](https://github.com/imallinson): CI/CD
+* [Jordan Hignett](https://github.com/JHignett1995): Front End
+* [George Downe](https://github.com/geodow06): Back End
+* [Thomas Scowcroft](https://github.com/scowy): Back End
+* [Valentin Lukovski](https://github.com/VLukovski): Testing
+* [Jonathan Eures](https://github.com/JEuresQA): CI/CD
 
 ## Index
 1. [Project Definition](#1-Project-Definition)
