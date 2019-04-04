@@ -22,7 +22,7 @@ services:
     build: ./feedback-forms-mail
   average:
     image: feedback-form-average
-    build: ./feedback-forms-average
+    build: ./feedback-form-average
   consumer: 
     image: feedback-forms-consumer
     build: ./feedback-forms-consumer
